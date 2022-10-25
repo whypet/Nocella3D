@@ -1,0 +1,26 @@
+﻿// Methods
+CreateWindowEx
+DefWindowProc
+DestroyWindow
+DispatchMessage
+EnumDisplayMonitors
+GetClientRect
+GetCursorPos
+GetModuleHandle
+GetWindowRect
+IsWindow
+LoadImage
+PeekMessage
+PostQuitMessage
+RegisterClassEx
+SetWindowPos
+ShowWindow
+TranslateMessage
+UnregisterClass
+
+// Constants
+IDC_ARROW
+WM_SIZE
+WM_CLOSE
+WM_QUIT
+WM_DESTROY

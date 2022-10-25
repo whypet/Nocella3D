@@ -1,0 +1,7 @@
+﻿// Methods
+SetStretchBltMode
+StretchBlt
+CreateCompatibleDC
+CreateDIBSection
+GetDC
+SelectObject
